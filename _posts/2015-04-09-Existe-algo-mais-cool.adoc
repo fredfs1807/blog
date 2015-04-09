@@ -1,4 +1,5 @@
 = Existe algo mais cool?
 :hp-tags: música, inspiração, referência
 
-video::KCylB780zSM[youtube]
+<iframe width="640" height="390" src="https://www.youtube.com/embed/tT9Eh8wNMkw" frameborder="0" allowfullscreen></iframe>
+
