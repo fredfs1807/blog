@@ -1,0 +1,6 @@
+= A Arquitetura e a Música
+++++
+<iframe src="https://embed-ssl.ted.com/talks/david_byrne_how_architecture_helped_music_evolve.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+++++
+
+David Byrne foi do CBGB ao Carnegie Hall. E pergunta: É o lugar que faz a música? De percussão ao ar livre a óperas Wagnerianas e rock de estádios, ele explora como o contexto proporcionou a inovação musical. 
